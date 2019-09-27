@@ -1,0 +1,73 @@
+#Copyright (C) 2017  Yaswanth Tavva
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License as published by
+#the Free Software Foundation, either version 3 of the License, or
+#(at your option) any later version.
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+.version 2.0
+.numvars 16
+.variables x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x14 x15
+.inputs i0 i1 i2 i3 i4 i5 i6 i7 i8 i9 i10 i11 i12 i13 i14 i15
+.outputs o0 o1 o2 o3 o4 o5 o6 o7 o8 o9 o10 o11 o12 o13 o14 o15
+.constants --------------00
+.garbage ----------------
+.begin
+t2 x1 x8
+t2 x2 x9
+t2 x3 x10
+t2 x4 x11
+t2 x5 x12
+t2 x6 x13
+t2 x1 x14
+t3 x0 x7 x14
+t2 x2 x1
+t3 x14 x8 x1
+t2 x3 x2
+t3 x1 x9 x2
+t2 x4 x3
+t3 x2 x10 x3
+t2 x5 x4
+t3 x3 x11 x4
+t2 x6 x5
+t3 x4 x12 x5
+t2 x6 x15
+t3 x5 x13 x15
+t1 x8
+t1 x9
+t1 x10
+t1 x11
+t1 x12
+t2 x14 x8
+t2 x1 x9
+t2 x2 x10
+t2 x3 x11
+t2 x4 x12
+t2 x5 x13
+t3 x4 x12 x5
+t3 x3 x11 x4
+t2 x6 x5
+t1 x12
+t3 x2 x10 x3
+t2 x5 x4
+t1 x11
+t3 x1 x9 x2
+t2 x4 x3
+t1 x10
+t3 x14 x8 x1
+t2 x3 x2
+t1 x9
+t3 x7 x0 x14
+t2 x2 x1
+t1 x8
+t2 x1 x14
+t2 x0 x7
+t2 x1 x8
+t2 x2 x9
+t2 x3 x10
+t2 x4 x11
+t2 x5 x12
+t2 x6 x13
+.end
