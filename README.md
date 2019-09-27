@@ -1,6 +1,7 @@
 # QuantumSqRoot
 
 =============================
+
 Written by Srijit Dutta and Yaswanth Tavva
 
 The default algorithm is described in the paper "Efficient Quantum Circuits for Square-Root and Inverse Square-Root".
