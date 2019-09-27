@@ -6,8 +6,7 @@ Written by Srijit Dutta and Yaswanth Tavva
 
 The default algorithm is described in the paper "Efficient Quantum Circuits for Square-Root and Inverse Square-Root".
 
-We kindly request that anyone using this code to optimize circuits
-acknowledges this repository and/or the paper on which it is based in their work
+We kindly request that anyone using this code to acknowledge this repository and/or the paper on which it is based in their work.
 
 
 USAGE
