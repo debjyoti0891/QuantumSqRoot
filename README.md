@@ -3,7 +3,7 @@
 =============================
 
 Written by Srijit Dutta and Yaswanth Tavva, as part of internship at HESL, Nanyang Technological Unversity, Singapore. The default algorithm is described in the paper, 
-`
+```
 @inproceedings{dutta2020,
   title={Efficient Quantum Circuits for Square-Root and Inverse Square-Root"},
   author={Srijit Dutta, Yaswanth Tavva, Debjyoti Bhattacharjee and Anupam Chattopadhyay},
@@ -11,10 +11,8 @@ Written by Srijit Dutta and Yaswanth Tavva, as part of internship at HESL, Nanya
   year={2020},
   organization={IEEE}
 }
-`
-
-
-We kindly request that anyone using this code to acknowledge this repository and/or the paper on which it is based in their work.
+```
+We kindly request that anyone using this code to acknowledge this paper.
 
 
 USAGE
