@@ -2,9 +2,17 @@
 
 =============================
 
-Written by Srijit Dutta and Yaswanth Tavva
+Written by Srijit Dutta and Yaswanth Tavva, as part of internship at HESL, Nanyang Technological Unversity, Singapore. The default algorithm is described in the paper, 
+`
+@inproceedings{dutta2020,
+  title={Efficient Quantum Circuits for Square-Root and Inverse Square-Root"},
+  author={Srijit Dutta, Yaswanth Tavva, Debjyoti Bhattacharjee and Anupam Chattopadhyay},
+  booktitle={33rd International Conference on VLSI Design},
+  year={2020},
+  organization={IEEE}
+}
+`
 
-The default algorithm is described in the paper "Efficient Quantum Circuits for Square-Root and Inverse Square-Root".
 
 We kindly request that anyone using this code to acknowledge this repository and/or the paper on which it is based in their work.
 
@@ -12,9 +20,9 @@ We kindly request that anyone using this code to acknowledge this repository and
 USAGE
 -----------------------------
 
-python3 FixedPoint_InvSqRoot_Generator.py
+`python3 FixedPoint_InvSqRoot_Generator.py`
 
-python3 FixedPoint_SqRoot_Generator.py
+`python3 FixedPoint_SqRoot_Generator.py`
 
 
 DESCRIPTION
