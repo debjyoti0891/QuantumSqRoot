@@ -13,6 +13,7 @@ USAGE
 -----------------------------
 
 python3 FixedPoint_InvSqRoot_Generator.py
+
 python3 FixedPoint_SqRoot_Generator.py
 
 
